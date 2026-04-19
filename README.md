@@ -65,8 +65,8 @@ Backtracking-Simulator/
 │   └── tsp.h
 │
 ├── .gitignore
-├── main.c
-└── README.md
+├── README.md
+└── main.c
 ~~~
 ---
 
